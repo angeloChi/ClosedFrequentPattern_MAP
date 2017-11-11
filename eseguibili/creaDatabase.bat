@@ -1,0 +1,1 @@
+mysql  < creaTabelle.sql  -u root -proot

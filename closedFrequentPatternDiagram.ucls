@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.0" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="server.mining.Interval" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/mining/Interval.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="194" x="248" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="server.database.NoValueException" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/database/NoValueException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="126" x="482" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="server.data.DiscreteAttribute" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/data/DiscreteAttribute.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="194" x="3240" y="829"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="server.database.DatabaseConnectionException" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/database/DatabaseConnectionException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="198" x="648" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="server.mining.ClosedPatternArchive" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/mining/ClosedPatternArchive.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="332" x="4022" y="335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="6" language="java" name="server.database.QUERY_TYPE" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/database/QUERY_TYPE.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="123" x="886" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="7" language="java" name="server.mining.Item" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/mining/Item.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="209" x="3529" y="335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="server.mining.FrequentPattern" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/mining/FrequentPattern.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="178" x="3529" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="client.Discovery" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/client/Discovery.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="268" x="1049" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="server.database.DBAccess" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/database/DBAccess.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="173" x="1357" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="server.utility.LinkList" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/utility/LinkList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="156" x="3333" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="server.data.Attribute" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/data/Attribute.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="117" x="3357" y="582"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="server.mining.ClosedPattern" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/mining/ClosedPattern.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="204" x="3778" y="335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="server.database.Table_Data.TupleData" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/database/Table_Data.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="115" x="5203" y="335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="server.mining.ContinuousAttributeIterator" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/mining/ContinuousAttributeIterator.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="222" x="1570" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="server.mining.FrequentPatternMiner" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/mining/FrequentPatternMiner.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="401" x="1832" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="server.database.TableSchema.Column" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/database/TableSchema.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="142" x="4394" y="335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="server.mining.ContinuousItem" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/mining/ContinuousItem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="240" x="3514" y="582"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="server.utility.Cella" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/utility/Cella.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="106" x="3170" y="582"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="server.ServerOneClient" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/MultiServer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="146" x="4022" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="server.data.ContinuousAttribute" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/data/ContinuousAttribute.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="219" x="3474" y="829"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="client.NoConsistentEpsException" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/client/NoConsistentEpsException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="177" x="2273" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="server.database.TableSchema" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/database/TableSchema.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="159" x="4394" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="server.mining.ClosedPatternMiner" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/mining/ClosedPatternMiner.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="418" x="4593" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="server.mining.DiscreteItem" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/mining/DiscreteItem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="205" x="3794" y="582"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="server.data.EmptySetException" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/data/EmptySetException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="134" x="2490" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="server.utility.Puntatore" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/utility/Puntatore.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="103" x="3170" y="335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="client.ServerException" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/client/ServerException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="238" x="2664" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="server.utility.EmptyQueue" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/utility/EmptyQueue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="99" x="4912" y="335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="30" language="java" name="server.database.Irrilevancy" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/database/Irrilevancy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="284" x="4588" y="335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="31" language="java" name="client.NoConsistentMinSupException" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/client/NoConsistentMinSupException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="198" x="2942" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="server.MultiServer" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/MultiServer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="113" x="3180" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="server.data.Data" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/data/Data.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="176" x="3313" y="335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="server.utility.Queue" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/utility/Queue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="112" x="5051" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="server.utility.Queue.Record" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/utility/Queue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="87" x="5051" y="335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="server.utility.EmptyQueue.EmptyQueueException" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/utility/EmptyQueue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="152" x="4912" y="582"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="server.database.Table_Data" project="ClosedFrequentPattern" 
+    file="/ClosedFrequentPattern/src/server/database/Table_Data.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="333" x="5203" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="38">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="39" name="attributeSet"/>      
+      <multiplicity id="40" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="41">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="42" name="link"/>      
+      <multiplicity id="43" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="44">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="45" name="tableSchema"/>      
+      <multiplicity id="46" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="47">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="48" name="item"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="50">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="34"/>  
+  </generalization>  
+  <association id="51">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="52" name="fp"/>      
+      <multiplicity id="53" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="55" name="end"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="57">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <association id="58">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="59" name="attribute"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="61">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="62">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="63" name="attribute"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="65">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="30"/>  
+  </realization>  
+  <generalization id="66">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <nesting id="67">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="17"/>  
+  </nesting>  
+  <association id="68">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="69" name="archive"/>      
+      <multiplicity id="70" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="71">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="14"/>  
+  </nesting>  
+  <association id="72">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="73" name="attribute_aggr"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="75">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="35"/>  
+  </nesting>  
+  <association id="76">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="77" name="begin"/>      
+      <multiplicity id="78" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="79">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="80" name="inizioLista"/>      
+      <multiplicity id="81" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="82">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <nesting id="83">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="36"/>  
+  </nesting>  
+  <generalization id="84">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="85">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="86" name="successivo"/>      
+      <multiplicity id="87" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="88">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="89" name="next"/>      
+      <multiplicity id="90" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
